@@ -1,0 +1,4 @@
+A primeira aula do Adaptelas, ministrada pelo professor Thiago, foi bastante produtiva e empolgante. 
+Curti bastante, pois sempre tive vontande de entender ao certo o que é o Git e a forma como usamos o GitHub.
+Acredito que o curso do Adaptelas irá acrescentar bastante em meus conhecimentos, levando em consideração que ainda não sei ao certo qual área dentro da computação quero seguir.
+Estou em um momento de experimentação e através dessa oportunidade posso ter uma noção de como é uma parte que compõe o desenvolvimento Web, que é o FrontEnd.
